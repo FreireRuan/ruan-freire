@@ -31,7 +31,7 @@ Possuo habilidades avançadas em SQL, Python e ferramentas de DataViz sendo capa
 
 ## Linguagens e Ferramentas
 
-SQL, Python, PySpark, Tableau, Power BI, Looker Studio, Looker Plataform
+SQL, Python, PySpark, Tableau, Power BI, Looker Studio, Looker Plataform, GCP, AWS, Airflow, DBT, Pentaho
 
 ## Artigos Recentes
 
