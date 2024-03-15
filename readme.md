@@ -3,8 +3,13 @@
 Sou Analytics Engineer com especialização em Análise de Dados. Formado em Logística e certificado Black Belt em Lean SixSigma. 
 Possuo habilidades avançadas em SQL, Python e ferramentas de DataViz sendo capaz de organizar, diagnosticar e propor melhorias com baixos custos.
 
+<div> 
 
-- LinkedIn: [ruan-freire](https://www.linkedin.com/in/ruanfreire/)
+  <a href="https://www.linkedin.com/in/ruanfreire/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  
+ 
+</div>
 
 ## Projetos Destacados
 
@@ -42,3 +47,8 @@ SQL, Python, PySpark, Tableau, Power BI, Looker Studio, Looker Plataform, GCP, A
 - Certificação Black Belt em Lean SixSigma
 - Tecnólogo em Logística, Senac Rio
 
+<div align="center">
+  <a href="https://github.com/FreireRuan">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FreireRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreireRuan&layout=compact&langs_count=7&theme=dracula"/>
+</div>
