@@ -49,6 +49,4 @@ SQL, Python, PySpark, Tableau, Power BI, Looker Studio, Looker Plataform, GCP, A
 
 <div align="center">
   <a href="https://github.com/FreireRuan">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FreireRuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreireRuan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
